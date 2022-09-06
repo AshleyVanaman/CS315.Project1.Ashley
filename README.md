@@ -2,7 +2,7 @@
 CS3125.Project1
 
 # How to Play
-  Launch: 
+  Launch:
   Angle Up: 
   Angle Down: 
   
