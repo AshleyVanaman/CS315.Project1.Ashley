@@ -6,6 +6,10 @@ CS3125.Project1
   Angle Up: 
   Angle Down: 
   
+# Third Party
+https://www.kenney.nl/assets/rolling-ball-assets
+https://www.kenney.nl/assets/animal-pack-redux
+  
 # Self Reflection: 
 One of my biggest issues with this was that my GoDot engine would not start. The engine would give me an error. Therefore, I kept having major setbacks on my project with having to restart the whole thing several times. Aside from that, having the game actually be able to use a projectile was really satisfying. 
 
